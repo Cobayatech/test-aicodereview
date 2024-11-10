@@ -6,7 +6,7 @@ function sumar($numero1, $numero2) {
 }
 
 // Ejemplo de uso
-$numero1 = 10;
+$numero1 = 10.1;
 $numero2 = 20.0;
 
 // Llamar a la función y almacenar el resultado
